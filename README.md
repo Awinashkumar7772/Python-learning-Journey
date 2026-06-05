@@ -1,5 +1,5 @@
 # 🐍 Python Journey
-
+ 
 Welcome to my Python Journey repository!
 
 This repository documents my progress as I learn Python from the basics to advanced concepts, build projects, solve problems, and prepare for Software Engineering and AI development roles.
